@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/handm/static/css/main.94229738.css",
+    "main.js": "/handm/static/js/main.10ad979d.js",
+    "static/js/787.708d7c2c.chunk.js": "/handm/static/js/787.708d7c2c.chunk.js",
+    "index.html": "/handm/index.html",
+    "main.94229738.css.map": "/handm/static/css/main.94229738.css.map",
+    "main.10ad979d.js.map": "/handm/static/js/main.10ad979d.js.map",
+    "787.708d7c2c.chunk.js.map": "/handm/static/js/787.708d7c2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94229738.css",
+    "static/js/main.10ad979d.js"
+  ]
+}
