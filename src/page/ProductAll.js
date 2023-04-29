@@ -10,7 +10,7 @@ const ProductAll = () => {
   const getProducts = async () => {
     const searchQuery = query.get("q") || ""; //쿼리가 없다면 비워두어라
     console.log("searchQuery:", searchQuery);
-    const url = `http://localhost:3004/products?q=${searchQuery}`;
+    const url = `https://my-json-server.typicode.com/understanding963852/handm/products?q=${searchQuery}`;
     let response = await fetch(url);
     let data = await response.json();
     console.log(data);
